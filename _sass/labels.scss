@@ -20,8 +20,13 @@
 }
 
 .label-green:not(g) {
-  background-color: $green-200;
+  background-color: $green-100;
 }
+
+.label-dark-green:not(g) {
+  background-color: $green-300;
+}
+
 
 .label-purple:not(g) {
   background-color: $purple-100;
@@ -34,4 +39,19 @@
 .label-yellow:not(g) {
   color: $grey-dk-200;
   background-color: $yellow-200;
+}
+
+.label-orange:not(g) {
+  color: $grey-dk-300;
+  background-color: $yellow-300;
+}
+
+.label-black:not(g) {
+  color: $white;
+  background-color: $grey-dk-300;
+}
+
+.label-gray:not(g) {
+  color: $grey-dk-300;
+  background-color: $grey-lt-300;
 }
