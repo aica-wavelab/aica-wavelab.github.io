@@ -7,7 +7,7 @@ nav_order: 2
 
 # Tutorial overview
 
-[Github repository](){: .btn .btn-purple }
+[Github repository](https://github.com/aica-wavelab/aica-project-workshop){: .btn .btn-purple target="_blank"}
 
 {% for module in site.modules %}
 {{ module }}

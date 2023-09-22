@@ -78,5 +78,5 @@ Discover all of them in section [Credits and attributions](/docs/credits){: targ
 
 ## License
 
-The new teaching material (tutorials and code) created for the course is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+The new teaching material (tutorials and code) created for the course is available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 **Each tool and library demonstrated in the tutorials is subject to its own license.**

@@ -9,6 +9,6 @@ nav_order: 3
 
 Coming soon...
 
-{% for schedule in site.schedules %}
+<!-- {% for schedule in site.schedules %}
 {{ schedule }}
-{% endfor %}
+{% endfor %} -->

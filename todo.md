@@ -1,8 +1,7 @@
 # Settings
 
-- [ ] Reset commit history / contributors / sponsors
-- [ ] Remove sponsor
+- [ ] Remove contributors
+
 # Content
 
-- [ ] Finish structure of the website
-- [ ]
+- [ ] Subscription page
