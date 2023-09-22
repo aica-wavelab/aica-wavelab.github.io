@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Content overview
+title: Tutorial overview
 description: ML tools and techniques
 nav_order: 2
 ---
 
-# Content overview
+# Tutorial overview
 
 [Github repository](){: .btn .btn-purple }
 
