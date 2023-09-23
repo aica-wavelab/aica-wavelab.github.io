@@ -42,7 +42,7 @@ You will form **a team with students from HM and HMTM** with complementary exper
 
 You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
 
-##  Who can participate? 
+<!-- ##  Who can participate? 
 
 **Hochschule München University of Applied Sciences:**
 - Bachelor student in Computer Science, credited as FWP-subject;
@@ -51,7 +51,7 @@ You will be accompanied **on site** by technology and culture experts, and coach
 - Bachelor student in Digital Engineering, prerequisite of 90 achieved ECTS;
 
 **Hochschule für Musik und Theater München**
-- Any student
+- Any student -->
 
 
 ## Tutorials

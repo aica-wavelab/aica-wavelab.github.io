@@ -2,7 +2,7 @@
 layout: default
 title: Tutorial overview
 description: ML tools and techniques
-nav_order: 2
+nav_order: 3
 ---
 
 # Tutorial overview
@@ -32,29 +32,26 @@ nav_order: 2
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
 | Use your phone as a sensor device | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } |
-| Create a minimal sound synthesizer | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } |
-| Map sensors to sound synthesis parameters using ML | 🟠 | [Files](#) | [Pure Data](){: .label .label-black } [ml-lib](){: .label .label-purple} |
+| Build a minimal sound synthesizer | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } |
+| Map sensors to synthesis parameters with ML | 🟠 | [Files](#) | [Pure Data](){: .label .label-black } [ml-lib](){: .label .label-purple} |
 
-## Audio style transfer with neural networks
+## Audio modelling and synthesis with neural networks
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Audio style transfer with pre-trained neural networks | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } [nn~](){: .label .label-gray}|
+| Audio modelling and synthesis with pre-trained neural networks | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } [nn~](){: .label .label-gray}|
 | Train your model with your own corpus of sound | 🔴 | [Files](#) | [Python](){: .label .label-green } [RAVE](){: .label .label-yellow } |
 
 ## Embed and explore cultural archives
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Visualize data set embedding | 🟠 | [Files](#) | [Python](){: .label .label-green } |
+| Visualize data set embeddings | 🟠 | [Files](#) | [Python](){: .label .label-green } |
 | Train an embedding on your own corpus of text/images | 🔴 | [Files](#) | [Python](){: .label .label-green } |
 
-## Automating text generation from personalized documents
+## Language model for domain-specific application
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Understanding LangChain | 🔴 | [Files](#) | [Python](){: .label .label-green} [🦜 LangChain](){: .label .label-yellow }|
-| Chat with data | 🔴 | [Files](#) | [Python](){: .label .label-green } [🦜 LangChain](){: .label .label-yellow } |
-
-
-
+| Understanding language models | 🔴 | [Files](#) | [Python](){: .label .label-green}|
+| Chat with data | 🔴 | [Files](#) | [Python](){: .label .label-green} [🦜 LangChain](){: .label .label-yellow }|

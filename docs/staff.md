@@ -2,7 +2,7 @@
 layout: page
 title: Instructors
 description: Instructors that can help you for the implementation
-nav_order: 5
+nav_order: 10
 ---
 
 
@@ -20,7 +20,7 @@ Scientific instructors prepared the technical content hosted on this website. Th
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 
-# Organizer
+# Teaching assistants
 
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants

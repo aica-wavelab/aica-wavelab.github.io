@@ -3,7 +3,7 @@ name: Dr. Téo Sanchez
 role: Instructor
 email: teo.sanchez@hm.edu
 website: https://teo-sanchez.github.io/
-photo: teo.jpg
+photo: people/teo.jpg
 ---
 
 <!-- Téo Sanchez is a postdoctoral researcher at the MUC.DAI at Hochschule München, specializing in human-AI interaction. His research focuses on the understanding and development of teachable ML systems that enable users to simultaneously generate the knowledge data of interest and experience the model’s predictions and improvements. This approach creates simultaneous usage and development, promoting more personalized and transparent AI systems for non-experts, either for pedagogy or niche domains such as the arts.
