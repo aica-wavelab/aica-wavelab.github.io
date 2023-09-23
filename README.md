@@ -12,7 +12,7 @@
 
 The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) aims to equip students at the [University of Music and Performing Arts Munich](https://hmtm.de/) (HM) and [Hochschule München University of Applied Sciences](https://www.hm.edu/en/index.en.html) (HMTM) with necessary skills to impact AI innovations in the creative and cultural industries.
 
-[Learn more about AICA](https://www.wavelab.io/aica/){: .btn target="_blank"}
+[Learn more about AICA](https://www.wavelab.io/aica/)
 
 
 ## What is the project workshop ?
@@ -31,8 +31,6 @@ You will be accompanied **on site** by technology and culture experts, and coach
 This website provides a large range of tutorials and ressources, organized by topic and difficulty. 
 **Feel free to use and adapt any of the ressources to implement your project !**
 
-[Tutorial overview](/docs/tutorial){: .btn target="_blank" target="_blank"}
-
 ## Evaluation and ECTS
 
 You will earn **6 ECTS** for the validation of the course.
@@ -46,7 +44,8 @@ We highly encourage students to extend and capitalize on their projects to deriv
 ## Credits and attributions
 
 The tutorial are based on several **open-source tools and libraries** developed by talented researchers and developers. Without them, this course would not be possible. 
-Discover all of them in section [Credits and attributions](/docs/credits){: target="_blank"}.
+
+TODO: credit attribution
 
 ## License
 
