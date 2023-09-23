@@ -24,8 +24,8 @@ nav_order: 3
 | The development cycle of ML | 🟢 | [App](#) |  |
 | Train your image classifier | 🟢 | [App](#) |  |
 | Train your ML model from data tables | 🟢 | [App](#) |  |
-| Import your trained model in Python | 🟠 | [Files](#) | [Python](){: .label .label-green } [scikit-learn](){: .label .label-blue } |
-| Create your own Marcelle application | 🟠 | [Files](#) | [Marcelle](){: .label .label-orange } [Node.js](){: .label .label-dark-green } |
+| Train your ML model in Python | 🟠 | [Files](#) | [Python](){: .label .label-green } [scikit-learn](){: .label .label-blue } |
+| Create your own interactive ML web application | 🟠 | [Files](#) | [Marcelle](){: .label .label-orange } [Node.js](){: .label .label-dark-green } |
 
 ## Mapping by demonstration
 
@@ -46,7 +46,8 @@ nav_order: 3
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Visualize data set embeddings | 🟠 | [Files](#) | [Python](){: .label .label-green } |
+| What is dimensionality reduction ? | 🟢 | [Files](#) | [Python](){: .label .label-green } |
+| Visualize embeddings | 🟠 | [Files](#) | [Python](){: .label .label-green } |
 | Train an embedding on your own corpus of text/images | 🔴 | [Files](#) | [Python](){: .label .label-green } |
 
 ## Language model for domain-specific application

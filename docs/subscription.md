@@ -4,7 +4,8 @@ title: Subscription
 nav_exclude: false
 nav_order: 2
 ---
-#  Enroll now! 
+<!-- Change color to purple -->
+#  **Enroll now! 💥**{: .text-purple-000}
 
 First, express your interest to Dr. Benedikt Zönnchen directly ([zoennchen.benedikt@hm.edu](mailto:zoennchen.benedikt@hm.edu)) with a **short motivation letter (about 400 words)**.
 

@@ -11,6 +11,7 @@
 # Content 
 
 - [ ] Add "installation" section
+- [ ] Unique page for each tutorial
 
 ## Intro
 
@@ -32,5 +33,5 @@
 
 ## Embedding
 
-- [ ] Jupyter notebook for embedding visualization of image / text (before after )
+- [ ] Jupyter notebook for embedding visualization of image / text (before / after) ?
  
