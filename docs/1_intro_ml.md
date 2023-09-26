@@ -8,7 +8,6 @@ permalink: /docs/1_intro_ml
 # Introduction to machine learning
 {: .no_toc}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This chapter will teach you foundational concepts of machine learning (ML) through hands-on turorials.
 The first three chapters only use interactive applications, no programming skills are required.

@@ -8,7 +8,6 @@ nav_order: 5
 # Mapping by demonstration
 {: .no_toc}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A computer program is a sequence instructions for a computer to execute. Programs often take inputs, process them, and produce outputs. The way inputs are processed are usually explicited by the human programmer, using a programming language.
 Machine learning (ML) offers an alternative to explicit programmation: ML algorithms can learn to process data from examples. The human developper provides pairs of input and its corresponding output, and the ML model is then optimized to reproduce the same mapping.
