@@ -5,14 +5,7 @@ nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JFBL1M5RX8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JFBL1M5RX8');
-</script>
 # AI in culture and art - project workshop
 {: .no_toc}
 
