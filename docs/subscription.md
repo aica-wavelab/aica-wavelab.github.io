@@ -7,7 +7,7 @@ nav_order: 2
 <!-- Change color to purple -->
 #  **Enroll now! 💥**{: .text-purple-000}
 
-First, express your interest to Dr. Benedikt Zönnchen directly ([zoennchen.benedikt@hm.edu](mailto:zoennchen.benedikt@hm.edu)) with a **short motivation letter (about 400 words)**.
+Express your interest to Dr. Benedikt Zönnchen directly ([zoennchen.benedikt@hm.edu](mailto:zoennchen.benedikt@hm.edu)) with a **short motivation statement**.
 
 Second, sign up to the class on the platform of your university.
 
@@ -15,7 +15,7 @@ Second, sign up to the class on the platform of your university.
   <div class="column">
     <h4>Hochschule München University of applied sciences</h4>
     <img src="{{ '/assets/images/logos/hm_logo.png' | relative_url }}" alt="HMTM Logo">
-    <a href="https://nine.hm.edu/" class="btn fs-5 mb-4 mb-md-0 mr-2" target="_blank">Sign up on Nine</a>
+    <a href="https://moodle.hm.edu/enrol/index.php?id=21077" class="btn fs-5 mb-4 mb-md-0 mr-2" target="_blank">Sign up on Moodle</a>
 
   </div>
   <div class="column">
@@ -27,6 +27,7 @@ Second, sign up to the class on the platform of your university.
   </div>
 </div>
 
+<!-- 
 #  Who can participate? 
 
 <div class="columns">
@@ -48,4 +49,4 @@ Second, sign up to the class on the platform of your university.
 
 
 
-
+ -->

@@ -28,7 +28,7 @@ permalink: /
 ---
 ## What is AICA? 
 
-The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) aims to equip students at the [University of Music and Performing Arts Munich](https://hmtm.de/) (HM) and [Hochschule München University of Applied Sciences](https://www.hm.edu/en/index.en.html) (HMTM) with necessary skills to impact AI innovations in the creative and cultural industries.
+The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) aims to equip students at the [University of Music and Performing Arts Munich](https://hmtm.de/) (HMTM) and [Hochschule München University of Applied Sciences](https://www.hm.edu/en/index.en.html) (HM) with necessary skills to impact AI innovations in the creative and cultural industries.
 
 [Learn more about AICA](https://www.wavelab.io/aica/){: .btn target="_blank"}
 
