@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# AI in culture and art - project workshop
+# AI in culture and arts - project workshop
 {: .no_toc}
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
