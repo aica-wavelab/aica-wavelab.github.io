@@ -1,6 +1,6 @@
 <br><br>
 <p align="center">
-    <h1 align="center">Artificial Intelligence in culture and art - project workshop</h1>
+    <h1 align="center">Artificial Intelligence in culture and arts - project workshop</h1>
     <p align="center">Workshop webpage made from the <a href="https://just-the-docs.com/">Just The Docs</a> and <a href="https://github.com/kevinlin1/just-the-class">Just The Class</a> jekyll themes for documentation with built-in search.
 </p>
 
@@ -20,7 +20,7 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2023/2024 **starting November 2023**.
 This course will teach you how to build and apply AI and machine learning for the cultural and artistic domains.
 
-You will develop **your own project** at the interface of AI in art and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
+You will develop **your own project** about AI for arts and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
