@@ -42,7 +42,7 @@ First of all, what is a machine learning?
 In other words, machine learning (ML) part of the field of AI but its specificity lies in the fact that algorithms are learning from data.
 To give you a concrete example, let's train your first image classifier from images collected with your webcam and using the application below.
 
-[Train my first image classifier! ](/marcelle/ml-webcam){: .btn }
+[Train my first image classifier! ](/marcelle/ml-webcam){: .btn target="_blank"}
 
 In this application, you can activate the `webcam` of your laptop on the left side of the screen. 
 Below the `webcam`, you can choose a `label` to be associated with the images you will collect. Once the `label` selected, click on the button `hold to collect` to collect images with the corresponding `label`. Doing so, you will see the images you collect appearing in the `Training set` in the middle of the screen.
@@ -61,12 +61,21 @@ But you don't know much about how machine learning works... Let's now see what's
 
 ## The development cycle of ML
 
-The development of ML is a cycle composed of 4 main steps.
+The development of ML is a cycle composed of 4 main steps. These steps are illustrated in the application below.
+[The development cycle of ML](/marcelle/ml-vision){: .btn target="_blank"}
+
+You can perform the different steps of the development cycle of ML in the application above and using different image datasets: 
+
+- mini
 
 ### 1. Data collection
 
 The first step of the development cycle of ML is data collection. It consists in collecting and annotating data samples that can be used by an ML algorithm to learn a mapping from inputs to outputs. In the previous example, the data samples are images collected with your webcam and the corresponding labels you provided.
 If pairs of input and output are provided in the training set, we talk about **supervised learning**. If only inputs are provided, we talk about **unsupervised learning**.
+
+The data samples are usually gathered in two sets: the **training set** and the **test set**. The training set is used to train the ML model, while the test set is used to evaluate the performance of the trained model. In other words, the training set is the exemples you work on during the semester, while the test set is the final exam.
+
+
 
 ### 2. 
 
