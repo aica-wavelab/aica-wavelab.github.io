@@ -61,6 +61,11 @@ But you don't know much about how machine learning works... Let's now see what's
 
 ## The development cycle of ML
 
+The development of ML is a cycle composed of 4 main steps:
+
+### 1. Data collection
+
+The first step of the development cycle of ML is data collection. 
 
 
 ## Train your model in Python
