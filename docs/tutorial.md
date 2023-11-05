@@ -21,9 +21,8 @@ nav_order: 3
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
+| Train your first image classifier | 🟢 | [App](#) |  |
 | The development cycle of ML | 🟢 | [App](#) |  |
-| Train your image classifier | 🟢 | [App](#) |  |
-| Train your ML model from data tables | 🟢 | [App](#) |  |
 | Train your ML model in Python | 🟠 | [Files](#) | [Python](){: .label .label-green } [scikit-learn](){: .label .label-blue } |
 | Create your own interactive ML web application | 🟠 | [Files](#) | [Marcelle](){: .label .label-orange } [Node.js](){: .label .label-dark-green } |
 

@@ -29,11 +29,24 @@ Lastly, the fifth section provides ressources to develop your on web-based inter
 
 ---
 
+## Train your first image classifier
+
+Have you ever trained a machine learning model ? If not, this is the right place to start.
+First of all, what is a machine learning?
+
+{: .note-title }
+> Definition
+>
+> Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can effectively generalize from examples and thus perform tasks without explicit instructions.
+
+In other words, machine learning (ML) part of the field of AI but its specificity lies in the fact that algorithms are learning from data.
+To give you a concrete example, let's train your first image classifier from images collected with your webcam and using the application below.
+
+[Train my first image classifier! ](){: .btn }
+
+
+
 ## The development cycle of ML
-
-## Train your image classifier
-
-## Train your ML model from data tables
 
 ## Train your model in Python
 

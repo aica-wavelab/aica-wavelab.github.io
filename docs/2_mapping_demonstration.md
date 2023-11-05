@@ -8,7 +8,6 @@ nav_order: 5
 # Mapping by demonstration
 {: .no_toc}
 
-
 A computer program is a sequence instructions for a computer to execute. Programs often take inputs, process them, and produce outputs. The way inputs are processed are usually explicited by the human programmer, using a programming language.
 Machine learning (ML) offers an alternative to explicit programmation: ML algorithms can learn to process data from examples. The human developper provides pairs of input and its corresponding output, and the ML model is then optimized to reproduce the same mapping.
 We call this approach **mapping by demonstration**, and finds many applications in the creative and cultural industries: in performing arts (gesture to sound), in video games, in robotics, among others.

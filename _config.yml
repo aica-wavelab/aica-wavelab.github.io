@@ -16,7 +16,7 @@
 title: "AICA project workshop"
 logo: "/assets/images/logos/aica_logo.png"
 favicon_ico: "/assets/images/favicon.ico"
-description: "Artificial Intelligence in Culture and Art (AICA): Tools and tutorials for the project workshop at the Wavelab"
+description: "Artificial Intelligence in Culture and Arts (AICA): Tools and tutorials for the project workshop at the Wavelab"
 author: Téo Sanchez, Benedikt Zönnchen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aica-wavelab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
