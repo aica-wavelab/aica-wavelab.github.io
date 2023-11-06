@@ -21,37 +21,37 @@ nav_order: 3
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Train your first image classifier | 🟢 | [App](#) |  |
-| The development cycle of ML | 🟢 | [App](#) |  |
-| Train your ML model in Python | 🟠 | [Files](#) | [Python](){: .label .label-green } [scikit-learn](){: .label .label-blue } |
-| Create your own interactive ML web application | 🟠 | [Files](#) | [Marcelle](){: .label .label-orange } [Node.js](){: .label .label-dark-green } |
+| Train your first image classifier | 🟢 | [App](https://aica-wavelab.github.io/marcelle/ml-webcam/) |  |
+| The development cycle of ML | 🟢 | [App](https://aica-wavelab.github.io/marcelle/ml-vision/) |  |
+| Train your ML model in Python | 🟠 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/1_introduction/ml-vision-python) | [Python](){: .label .label-green } [scikit-learn](){: .label .label-blue } |
+| Create your own interactive ML web application | 🟠 | [Tutorial](https://marcelle.dev/guide/getting-started.html) | [Marcelle](){: .label .label-orange } [Node.js](){: .label .label-dark-green } |
 
 ## Mapping by demonstration
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Use your phone as a sensor device | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } |
-| Build a minimal sound synthesizer | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } |
-| Map sensors to synthesis parameters with ML | 🟠 | [Files](#) | [Pure Data](){: .label .label-black } [ml-lib](){: .label .label-purple} |
+| Use your phone as a sensor device | 🟢 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } |
+| Build a minimal sound synthesizer | 🟢 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } |
+| Map sensors to synthesis parameters with ML | 🟠 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } [ml-lib](){: .label .label-purple} |
 
 ## Audio modelling and synthesis with neural networks
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Audio modelling and synthesis with pre-trained neural networks | 🟢 | [Files](#) | [Pure Data](){: .label .label-black } [nn~](){: .label .label-gray}|
-| Train your model with your own corpus of sound | 🔴 | [Files](#) | [Python](){: .label .label-green } [RAVE](){: .label .label-yellow } |
+| Audio modelling and synthesis with pre-trained neural networks | 🟢 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/3_neural_synthesis) | [Pure Data](){: .label .label-black } [nn~](){: .label .label-gray}|
+| Train your model with your own corpus of sound | 🔴 | [Colab project](https://colab.research.google.com/drive/1ih-gv1iHEZNuGhHPvCHrleLNXvooQMvI?usp=sharing) | [Python](){: .label .label-green } [RAVE](){: .label .label-yellow } |
 
 ## Embed and explore cultural archives
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| What is dimensionality reduction ? | 🟢 | [Files](#) | [Python](){: .label .label-green } |
-| Visualize embeddings | 🟠 | [Files](#) | [Python](){: .label .label-green } |
-| Train an embedding on your own corpus of text/images | 🔴 | [Files](#) | [Python](){: .label .label-green } |
+| What is dimensionality reduction ? | 🟢 | TODO | [Python](){: .label .label-green } |
+| Visualize embeddings | 🟠 | TODO | [Python](){: .label .label-green } |
+| Train an embedding on your own corpus of text/images | 🔴 | TODO | [Python](){: .label .label-green } |
 
 ## Language model for domain-specific application
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Understanding language models | 🔴 | [Files](#) | [Python](){: .label .label-green}|
-| Chat with data | 🔴 | [Files](#) | [Python](){: .label .label-green} [🦜 LangChain](){: .label .label-yellow }|
+| Understanding language models | 🔴 | TODO | [Python](){: .label .label-green}|
+| Chat with data | 🔴 | [Tutorial](https://github.com/mayooear/gpt4-pdf-chatbot-langchain/tree/feat/vectordbqa) | [Python](){: .label .label-green} [🦜 LangChain](){: .label .label-yellow }|
