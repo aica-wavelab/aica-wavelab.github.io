@@ -15,7 +15,7 @@ permalink: /
 
 <iframe src="https://player.vimeo.com/video/868364836?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="AICA - project workshop"></iframe>
 
-[Subscribe now!](/docs/subscription){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[First bloc's presentations](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 

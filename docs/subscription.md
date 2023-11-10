@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Subscription
 nav_exclude: true
@@ -49,4 +49,4 @@ Second, sign up to the class on the platform of your university.
 
 
 
- -->
+ --> -->
