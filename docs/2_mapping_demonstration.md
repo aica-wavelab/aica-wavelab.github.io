@@ -59,9 +59,10 @@ Both application should be configurated with the IP address of your computer and
 
 ### Receive OSC messages on your computer in Pure Data
 
-Pure Data (Pd) is a free and open-source visual programming language for creating interactive computer music and multimedia works. Pd enables musicians, visual artists, performers, researchers, and developers to create software graphically, without writing lines of code. Pd is used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. Pd can easily run on micro-computers such as Raspberry Py and is hence a great tool for prototyping interactive systems.
+[Pure Data](https://puredata.info/) is a free and open-source visual programming language for creating interactive computer music and multimedia works. Pd enables musicians, visual artists, performers, researchers, and developers to create software graphically, without writing lines of code. Pd is used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. Pd can easily run on micro-computers such as Raspberry Py and is hence a great tool for prototyping interactive systems.
+We recommend using the [Plug Data](https://plugdata.org/) version of Pd, as it provides a more user-friendly interface, and can be used as a standalone app or as a VST3, LV2, CLAP or AU plugin.
 
-We prepared a Pd patch to receive OSC messages.
+You can download below a Pd patch we wrote to receive OSC messages from your phone. You can open it with Plug Data.
 
 [2a_phone_sensors.pd](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration){: .btn target="_blank"}
 
@@ -104,6 +105,46 @@ Both parameters are controled using horizontal sliders.
 
 The output of the filter is sent to the `dac~` object, which is the digital-to-analog converter that converts the digital signal into an analog signal that can be played by your speakers. You can activate the DSP (digital signal processing) by clicking on the `⏼` button on the bottom right corner of your screen.
 
-
-
 ## Map sensors to synthesis parameters with ML
+
+At this stage, we successfully received OSC messages from a smartphone and created a simple sound synthesizer controlled by two parameters (cut-off frequency and Q value).
+However, we still do not have a mapping between the OSC messages and the synthesis parameters and programming such a mapping by hand can be tedious and time-consuming. We will now use machine learning to learn this mapping from examples.
+
+You can download below the Pd patch to train a ML model to map OSC messages to the cut-off frequency and Q value of the filter.
+
+[2c_ml_regression_mapping.pd](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration){: .btn target="_blank"}
+
+![2c_ml_regression_mapping](/assets/images/tutorials/2c_ml_regression_mapping.png)
+
+This patch require to install the ml-lib library. Unfortunately, this library is not up-to-date in the Deken, so you will have to install it manually. You can find the latest releases of the library at this address:
+
+[ml-lib](https://github.com/irllabs/ml-lib/releases){: .btn target="_blank"}
+
+Once downloaded, copy paste the folter `ml.lib` in the folder `Library/plugdata/Library/Extra` (MacOS) or `PlugData/extra` (Windows) and reboot Plug Data.
+
+You should now be able to load various machine learning classifier or regressor. We will use the `ml.ann` which is a generalist artificial neural network.
+
+First, we must conduct data collection, e.g, gathering input (gesture data) and their corresponding outputs (synthesizer parameters).
+Open both patches `2a_phone_sensors.pd`, `2b_sound_synthesis.pd`, and check that your patch `2c_ml_regression_mapping.pd` receive the signals from both the phone and the synthesizer. 
+
+Then, click on the radio button and select the middle one (data collection). This will start the recording of the data in the `ml.ann` object. You can record as many examples as you want, while changing the position of the phone, and the values of the sound synthesizer.
+
+When you are done, click on the `train` message to start training your artificial neural network. 
+Check the console to see if there's any error messages.
+
+Once the model is trained, click on the third mode (right button) to start the prediction. You should now be able to control the sound synthesizer from the OSC messages sent by your phone.
+
+## Map sensors to synthesis parameters with Wekinator
+
+The Wekinator is a free and standalone software that allows to do the exact same steps as in the patch `2c_ml_regression_mapping.pd` but in a more user-friendly interface. The wekinator accept and send arbitrary OSC messages.
+
+You can download the Wekinator at this address:
+
+[Wekinator](http://www.wekinator.org/){: .btn target="_blank"}
+
+Try to train a new mapping using the Wekinator and the `2a_phone_sensors.pd` and `2b_sound_synthesis.pd` patches.
+
+Dr. Benedikt Zönnchen provided a live demonstration of the wekinator using [Processing](https://processing.org/) (input) and [SuperCollider](https://supercollider.github.io/) (output). You can find the code and the video of the demonstration at this address:
+
+[Slides: replacing code with machine learning](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip){: .btn target="_blank"}
+[Code: replacing code with machine learning](https://syncandshare.lrz.de/getlink/fiSxeku21dD6oZ2WZagVKW/){: .btn target="_blank"}
