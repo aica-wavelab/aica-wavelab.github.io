@@ -105,7 +105,7 @@ Both parameters are controled using horizontal sliders.
 
 The output of the filter is sent to the `dac~` object, which is the digital-to-analog converter that converts the digital signal into an analog signal that can be played by your speakers. You can activate the DSP (digital signal processing) by clicking on the `⏼` button on the bottom right corner of your screen.
 
-## Map sensors to synthesis parameters with ML
+## Map sensors to synthesis parameters with ml-lib in Pure Data
 
 At this stage, we successfully received OSC messages from a smartphone and created a simple sound synthesizer controlled by two parameters (cut-off frequency and Q value).
 However, we still do not have a mapping between the OSC messages and the synthesis parameters and programming such a mapping by hand can be tedious and time-consuming. We will now use machine learning to learn this mapping from examples.
