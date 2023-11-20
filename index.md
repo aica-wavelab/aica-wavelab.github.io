@@ -19,7 +19,7 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
-19.11.2023 - Visit of Haus der Kunst on Friday 24.11.2023 at 16:00. If interested to join, please fill [this form](https://forms.gle/zAiruR7BgL67Fzcv5). We'll meet on the steps of Haus der Kunst at 16:00
+19.11.2023 - Visit of [Haus der Kunst](https://www.hausderkunst.de/) on Friday 24.11.2023 at 16:00. If interested to join, please fill [this form](https://forms.gle/zAiruR7BgL67Fzcv5). We'll meet on the steps of Haus der Kunst at 16:00
 
 19.11.2023 - Test your knowledge on machine learning fundamentals with [this optional test](/assets/pdf/test_ml_fundamentals.pdf). A correction session will be organized during the 2nd or 3rd bloc.
 

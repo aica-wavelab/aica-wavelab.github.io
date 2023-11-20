@@ -33,6 +33,7 @@ nav_order: 3
 | Use your phone as a sensor device | 🟢 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } |
 | Build a minimal sound synthesizer | 🟢 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } |
 | Map sensors to synthesis parameters with ML | 🟠 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration) | [Pure Data](){: .label .label-black } [ml-lib](){: .label .label-purple} |
+| Reproduce the demo of Benedikt Zönnchen with the Wekinator | 🟠 | [Files](https://github.com/aica-wavelab/aica-project-workshop/tree/main/2_mapping_demonstration/wekinator-examples) | [Processing](){: .label .label-black } [SuperCollider](){: .label .label-purple} |
 
 ## Audio modelling and synthesis with neural networks
 
@@ -45,13 +46,12 @@ nav_order: 3
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| What is dimensionality reduction ? | 🟢 | TODO | [Python](){: .label .label-green } |
-| Visualize embeddings | 🟠 | TODO | [Python](){: .label .label-green } |
-| Train an embedding on your own corpus of text/images | 🔴 | TODO | [Python](){: .label .label-green } |
+| Visualize embeddings | 🟠 | Coming soon... | [Python](){: .label .label-green } |
+| Train an embedding on your own corpus of text/images | 🔴 | Coming soon... | [Python](){: .label .label-green } |
 
 ## Language model for domain-specific application
 
 | Topic        | Difficulty          | Ressources | Installation     |
 |:-|:-|:-|:-|
-| Understanding language models | 🔴 | TODO | [Python](){: .label .label-green}|
+| Understanding language models | 🔴 | [Tutorial](https://www.youtube.com/embed/zizonToFXDs) | [Python](){: .label .label-green}|
 | Chat with data | 🔴 | [Tutorial](https://github.com/mayooear/gpt4-pdf-chatbot-langchain/tree/feat/vectordbqa) | [Python](){: .label .label-green} [🦜 LangChain](){: .label .label-yellow }|
