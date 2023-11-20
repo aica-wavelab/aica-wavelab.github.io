@@ -19,8 +19,4 @@ This chapter will teach you how to perform dimensional reduction of large collec
 
 ---
 
-## What is dimensionality reduction ?
-
-## Visualize embeddings
-
-## Train an embedding on your own corpus of text/images
+Coming soon...

@@ -15,7 +15,20 @@ permalink: /
 
 <iframe src="https://player.vimeo.com/video/868364836?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="AICA - project workshop"></iframe>
 
-[First bloc's presentations](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+## 📰 Announcements
+{: .no_toc }
+
+19.11.2023 - Visit of Haus der Kunst on Friday 24.11.2023 at 16:00. If interested to join, please fill [this form](https://forms.gle/zAiruR7BgL67Fzcv5). We'll meet on the steps of Haus der Kunst at 16:00
+
+19.11.2023 - Test your knowledge on machine learning fundamentals with [this optional test](/assets/pdf/test_ml_fundamentals.pdf). A correction session will be organized during the 2nd or 3rd bloc.
+
+15.11.2023 - Personalized feedback for each group is available [here](/docs/group_feedback).
+
+10.11.2023 - A complete list of tools is available in section [Tools and credits](/docs/credits/).
+
+10.11.2023 - The presentation slides of the first bloc are [now available](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip).
+
 
 ---
 

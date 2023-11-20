@@ -9,8 +9,6 @@ nav_order: 8
 # Language model for domain-specific application
 {: .no_toc}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 AI entered the mainstream in 2022 thanks to dramatic progresses in natural language processing, in particular text generation. Most of you now use ML-powered text generation tools, such as ChatGPT, to write emails, reports, and maybe your next novel?
 Large Language Models (LLMs) are generalists but open opportunities for domain-specific applications, including in the creative and cultural industries.
@@ -31,4 +29,11 @@ Then, understanding this technology is a prerequisite to design meaningful tools
 
 ## Understanding language models
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zizonToFXDs" title="Introduction to large language models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Chat with data
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aywZrzNaKjs" title="LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[ChatWithData youtube channel](https://www.youtube.com/@chatwithdata){: .btn target="_blank"}
