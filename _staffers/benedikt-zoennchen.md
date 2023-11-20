@@ -1,7 +1,7 @@
 ---
-name: Dr. Benedikt Zönnchen
-role: Instructor
-email: benedikt.zoennchen@hm.edu
+name: Dr. Benedikt Zönnchen (HM - MUC.DAI)
+role: Scientific instructor
+# email: benedikt.zoennchen [at] hm.edu
 website: https://bzoennchen.github.io/Pages/
 photo: people/benedikt.jpg
 ---

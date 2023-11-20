@@ -1,7 +1,6 @@
 ---
-name: Dr. Téo Sanchez
-role: Instructor
-email: teo.sanchez@hm.edu
+name: Dr. Téo Sanchez (HM - MUC.DAI)
+role: Scientific instructor
 website: https://teo-sanchez.github.io/
 photo: people/teo.jpg
 ---
