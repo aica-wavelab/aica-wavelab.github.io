@@ -15,11 +15,18 @@ Scientific instructors prepared the technical content hosted on this website. Th
 {{ staffer }}
 {% endfor %}
 
-# Artistic instructors
+# Art and culture instructors
 
 Artistic instructors can guide you through the artistic and cultural aspects of your project.
 
 {% assign instructors = site.staffers | where: 'role', 'Artistic instructors' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+# AICA project leader
+
+{% assign instructors = site.staffers | where: 'role', 'AICA project leader' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
