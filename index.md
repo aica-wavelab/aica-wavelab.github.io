@@ -21,7 +21,7 @@ permalink: /
 
 12.12.2023 - 📹 Don't forget to [upload your project's proof of concept video](https://syncandshare.lrz.de/preparefilelink?folderID=28Tg5PGQ2B1KQEbG4GCCD) before the 22nd of December, 23:59.
 
-11.12.2023 - Summary of the project office hours are available [here](/docs/office_hours_summary).
+11.12.2023 - Summary of the office hour meetings are available [here](/docs/office_hours_summary).
 
 <!-- 19.11.2023 - Visit of [Haus der Kunst](https://www.hausderkunst.de/) on Friday 24.11.2023 at 16:00. If interested to join, please fill [this form](https://forms.gle/zAiruR7BgL67Fzcv5). We'll meet on the steps of Haus der Kunst at 16:00 -->
 
