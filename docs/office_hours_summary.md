@@ -38,8 +38,9 @@ nav_order: 2
 
 ### Progresses
 
+- The group should possess all necessary hardware (piezoelectric sensors, armband, Arduino, bread board etc.)
 - The group successfuly assign roles for the project. Fabian is in charge of sound synthesis with SuperCollider. Matthias implemented the project's architecture and is in charge of the hardware. Marius is in charge of estimating bpm using recurrent neural network.
-- The system architecture is clear and functionnal.
+- The program architecture is clear and functionnal.
 - The group succesfully applied a peak detection algorithm on fake data.
 
 ### Next steps for the PoC
